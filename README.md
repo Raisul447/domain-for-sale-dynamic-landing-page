@@ -42,9 +42,9 @@ A clean, modern, and responsive landing page template for showcasing a premium d
 
 ## Contact & Support
 Raisul Islam
-- Email: deploy@shagor.dev
-- WhatsApp: [Chat Now](https://api.whatsapp.com/message/5VQWI3F5ZF4PD1)
-- Telegram: [Send Message](https://t.me/shagor447)
+- Email: deploy@raisul.dev
+- Website: https://raisul.dev/
+- Contact: https://raisul.dev/contact
 
 ---
 
